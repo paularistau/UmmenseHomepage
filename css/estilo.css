@@ -1,0 +1,233 @@
+
+
+ul li{ 
+    display: inline-block;
+    padding-top: 8px;
+    padding-left: 10px;
+}
+.barcontato{
+    height: 50px;
+}
+.navcontato{
+    
+    margin-top: -15px;
+}
+
+.barra-logo{
+    position: relative;  
+    top: -21px;
+}
+.contato-bar{
+    text-align: left;
+    font:16px/19px 'Gilroy', sans-serif;
+letter-spacing: 0;
+color: #707070;
+opacity: 1;
+margin-top: 10px;
+}
+
+
+.paragrafo-1{
+    position: relative;
+    top:50px;
+    text-align: center;     
+    font: Bold 50px/62px 'Gilroy', sans-serif;
+    letter-spacing: 0;
+    color: #404F61;
+    opacity: 1;
+}
+
+.paragrafo-2{
+    position: relative;
+    top:70px;
+    text-align: center;
+    font: 20px/24px 'Gilroy', sans-serif;
+    letter-spacing: 0;
+    color: #707070;
+    opacity: 1;
+
+}
+.imagemtemplate{
+    text-align: center;
+    position: relative;
+    top:132px;
+}
+.paragrafo-3{
+    position: relative;
+    top: 282px;
+    text-align: center;
+    font: 35px/43px 'Gilroy', sans-serif;
+    letter-spacing: 0;
+    color: #4C6173;
+    opacity: 1;
+}
+.text-box{
+    height: 380px;
+
+}
+.text-box, .caixa-1{
+    top: 1556px;
+}
+
+.paragrafo-4{
+    position: relative;
+    top: 306px;
+    text-align: center;
+    font: 16px/26px 'Gilroy', sans-serif;
+    letter-spacing: 0;
+    color: #4C6173;
+    opacity: 1
+}
+
+.gestao{
+    margin-left: 40px;
+
+
+}
+
+.gestão-itens-1{
+    position: relative;
+    float: left;
+    top: 334px;    
+    width: 300px;        
+    margin-right: 70px;   
+    margin-bottom: 62px;      
+    text-align: center;
+    font:  16px/26px 'Gilroy', sans-serif;
+    letter-spacing: 0;
+    color: #4C6173;
+    opacity: 1;
+}
+
+.caixa-1{
+    position: relative;
+    top: 431px;
+    height: 380px;
+    
+}
+
+
+
+.paragrafo-5{
+    position: relative;
+    top: 82px;;
+    margin-top: 12px;
+    text-align: center;
+    font: 35px/43px 'Gilroy', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+
+.paragrafo-6{
+    position: relative;
+    top: 99px;
+    text-align: center;
+    font: 16px/26px 'Gilroy', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+    
+    
+}
+
+
+.img-metodologias{
+    position: relative;
+    top: 528px;
+    left: 100px;
+    
+
+}
+
+.paragrafo-7{
+    position: relative;
+    top: 509px;  
+    float: left;
+    margin-left: -50px; 
+    text-align: center;
+    font: 30px/36px 'Gilroy', sans-serif;
+    letter-spacing: 0;
+    color: #4C6173;
+    opacity: 1;
+}
+
+.paragrafo-8{
+    position: relative;
+    top: 523px;    
+    float: left;
+    margin-left: -50px;         
+    text-align: left;
+    font: 16px/26px 'Gilroy', sans-serif;
+    letter-spacing: 0;
+    color: #4C6173;
+    opacity: 1;
+}
+
+
+.text-box-2{
+    position: relative;
+    top: 628px;
+    height: 380px;
+
+}
+
+
+.paragrafo-9{
+    position: relative;
+    top: 90px;    
+    width: 457px;    
+    text-align: left;
+    font: Bold 35px/43px 'Gilroy', sans-serif;
+    letter-spacing: 0;
+    color:#ffffff;
+    opacity: 1;
+
+}
+.paragrafo-10{
+    float: left;
+    position: relative;
+    top: 150px;     
+    text-align: left;
+    font: 16px/26px 'Gilroy', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+
+}
+
+.form-primeiros{
+    position: relative;
+    top: 173px;
+
+}
+
+.paragrafo-11{
+    text-align: left;
+    font: 16px/19px 'Gilroy', sans-serif;
+    letter-spacing: 0;
+    color: #707070;
+    opacity: 1;
+}
+
+.footer-body{
+    position: relative;
+    top: -140px;
+    margin-left: -40px;
+}
+.imagemscopo{
+    position: relative;
+    top: -20px;
+    left:-100px;
+
+}
+
+.imagemredes{
+    position: relative;
+    left: 450px;
+}
+.empresa{
+    position: relative;
+    left:-100px;
+}
